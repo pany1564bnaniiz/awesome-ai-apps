@@ -12,6 +12,8 @@ This repository is a fork of [Arindam200/awesome-ai-apps](https://github.com/Ari
 
 Whether you're a beginner looking to explore AI development or an experienced developer seeking inspiration, this collection has something for you!
 
+> **Personal note:** I'm using this fork primarily to learn RAG patterns and experiment with local LLMs via Ollama. Most of my additions will be in the `rag-apps/` and `ai-agents/` directories.
+
 ## 🗂️ Categories
 
 | Category | Description |
@@ -80,8 +82,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 🙏 Acknowledgements
 
 - Original repository by [Arindam200](https://github.com/Arindam200)
-- All contributors who have submitted apps and improvements
-
----
-
-<p align="center">Made with ❤️ by the community</p>
+- All contrib
